@@ -1,4 +1,4 @@
-# Gabriel's Dotfiles
+# Gabriel Dotfiles
 
 ## Programas
 - Hyprland + Noctalia Shell
