@@ -1,4 +1,4 @@
-# 🖥️ Gabriel's Dotfiles
+# 🖥️ Gabriel Dotfiles
 
 Configurações pessoais para CachyOS Linux com Hyprland + Noctalia Shell.
 
