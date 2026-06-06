@@ -1,0 +1,60 @@
+# ╔══════════════════════════════════════════════════════╗
+# ║         alacritty.toml — cores do noctalia          ║
+# ║         Material You gerado do wallpaper             ║
+# ╚══════════════════════════════════════════════════════╝
+
+# ────────────── Cores ──────────────
+# Geradas a partir do ~/.config/noctalia/colors.json
+[colors.primary]
+background = "#14140f"  # mSurface
+foreground = "#e6e2d9"  # mOnSurface
+
+[colors.cursor]
+cursor = "#d0cb54"      # mPrimary
+text   = "#343200"      # mOnPrimary
+
+[colors.selection]
+background = "#20201a"  # mSurfaceVariant
+text       = "#cac7b5"  # mOnSurfaceVariant
+
+[colors.normal]
+black   = "#14140f"     # mSurface
+red     = "#ffb4ab"     # mError
+green   = "#a5d0bb"     # mTertiary
+yellow  = "#d0cb54"     # mPrimary
+blue    = "#cbc8a4"     # mSecondary
+magenta = "#cac7b5"     # mOnSurfaceVariant
+cyan    = "#a5d0bb"     # mHover
+white   = "#e6e2d9"     # mOnSurface
+
+[colors.bright]
+black   = "#20201a"     # mSurfaceVariant
+red     = "#ffb4ab"     # mError
+green   = "#a5d0bb"     # mTertiary
+yellow  = "#d0cb54"     # mPrimary
+blue    = "#cbc8a4"     # mSecondary
+magenta = "#cac7b5"     # mOnSurfaceVariant
+cyan    = "#a5d0bb"     # mHover
+white   = "#e6e2d9"     # mOnSurface
+
+# ────────────── Janela ──────────────
+[window]
+opacity = 0.9
+padding = { x = 12, y = 12 }
+decorations = "None"
+
+# ────────────── Fonte ──────────────
+[font]
+size = 11.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style  = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style  = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style  = "Italic"
